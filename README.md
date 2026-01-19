@@ -1,74 +1,45 @@
-# Hi there, I'm [你的名字] 👋 <!-- 修改这里：替换为你的名字 -->
+### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
----
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-### 💫 关于我 (About Me)
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
-- 🔭 我目前正在从事 **[项目名称]** 的开发。 <!-- 修改这里 -->
-- 🌱 我最近在学习 **[技术名称，如：React, Go, LLM]**。 <!-- 修改这里 -->
-- 👯 我寻求在 **[领域/项目]** 方面的合作。 <!-- 修改这里 -->
-- 💬 欢迎与我交流关于 **[擅长领域]** 的话题。 <!-- 修改这里 -->
-- 📫 如何联系我: **[你的邮箱/社交媒体链接]** <!-- 修改这里 -->
-- ⚡ 趣味事实: **我热爱编程，也热爱生活！** <!-- 修改这里 -->
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
----
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+  
 
-### 🛠 我的技术栈 (Tech Stack)
+**Talking about Personal Stuffs:**
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <!-- 修改这里：在 i= 后面添加或删除你擅长的技术图标代码 -->
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github,vscode,linux" />
-  </a>
-</p>
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
 
----
+</br>
 
-### 📊 GitHub 统计 (GitHub Stats)
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
 
-<p align="center">
-  <!-- 修改这里：将 username= 后面替换为你的 GitHub 用户名 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" />
-</p>
+```txt
+No activity tracked
+```
 
-<p align="center">
-  <!-- 修改这里：将 user= 后面替换为你的 GitHub 用户名 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical" alt="streak stats" />
-</p>
+<!--END_SECTION:waka-->
 
----
 
-### 🚀 精选项目 (Featured Projects)
+📈 **My GitHub Stats:**
 
-| 项目名称 | 描述 | 技术栈 | 链接 |
-| :--- | :--- | :--- | :--- |
-| **Project One** | 一个非常酷的项目描述 | `React` `Node.js` | [查看源码](https://github.com/) |
-| **Project Two** | 另一个解决痛点的工具 | `Python` `FastAPI` | [查看源码](https://github.com/) |
-
----
-
-### 🐍 贡献图贪吃蛇 (Snake Game)
-
-<!-- 提示：这个模块需要配置 GitHub Actions 才能动态运行，初始可以先保留占位 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-### 🤝 社交联系 (Connect with me)
-
-<p align="left">
-  <a href="https://linkedin.com/in/你的ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="你的ID" height="30" width="40" /></a>
-  <a href="https://twitter.com/你的ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="你的ID" height="30" width="40" /></a>
-  <a href="https://instagram.com/你的ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="你的ID" height="30" width="40" /></a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&label=Profile%20views&color=0e75b6&style=flat" alt="你的用户名" />
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
