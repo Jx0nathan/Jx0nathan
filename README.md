@@ -6,14 +6,7 @@
   <a href="[/](https://www.linkedin.com/in/jonathan-ji-76b196378/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_Me-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jx0nathan&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=7" />
-  </a>
 </div>
-
 <br/>
 
 ---
@@ -34,7 +27,7 @@ I build systems where **money actually moves**. My focus is not just on smart co
 | Core Components | Technologies I Use |
 | :--- | :--- |
 | **Smart Contracts** | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=flat&logo=foundry&logoColor=white) ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white) |
-| **Backend & Systems** | | **Backend & Systems** | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-000000.svg?style=flat&logo=apachekafka&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
+| **Backend & Systems** | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-000000.svg?style=flat&logo=apachekafka&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
 | **Architecture** | Microservices, Event-Driven Systems, Distributed Ledgers |
 
 <br/>
