@@ -49,7 +49,8 @@ I build systems where **money actually moves**. My focus is not just on smart co
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jx0nathan&show_icons=true&theme=transparent&hide_border=true" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jx0nathan&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jx0nathan&show_icons=true&theme=transparent&hide_border=true" height="210" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jx0nathan&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="170" />
 </div>
+
 
