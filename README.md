@@ -1,6 +1,7 @@
 ### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Jonathan Ji</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+**CTO / Technical Co-founder | Crypto Payments & Financial Infrastructure**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jonathan-ji-76b196378)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jonathan-ji-76b196378) · Based in SG 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
@@ -8,6 +9,8 @@ I’m a **Head of Technical** focused on **crypto payments, stablecoins, and fin
 
 I build systems where **money actually moves** — across cards, stablecoins, ledgers, and settlement rails — under real-world constraints like **compliance, scale, and operational risk**.
 
+
+---
 
 ## What I Do
 
@@ -28,7 +31,8 @@ I build systems where **money actually moves** — across cards, stablecoins, le
   - Hands-on architecture + org design
   - PCI-DSS / regulatory audit readiness
   - Turning prototypes into production-grade systems
-  
+
+ --- 
 
 **What I Care About:**
 - Payments that actually clear and settle (not just demos)
