@@ -7,6 +7,27 @@
 I’m a **Head of Technical** focused on **crypto payments, stablecoins, and financial infrastructure**.
 
 I build systems where **money actually moves** — across cards, stablecoins, ledgers, and settlement rails — under real-world constraints like **compliance, scale, and operational risk**.
+
+
+## What I Do
+
+- 🧱 **0 → 1 Fintech & Web3 Platforms**
+  - Crypto cards & card-as-a-service
+  - Stablecoin acquiring, on/off-ramps, and settlement
+  - End-to-end ledger, clearing & reconciliation systems
+  - On-chain ↔ off-chain fund flow design
+
+- ⚙️ **System Architecture at Scale**
+  - Payment authorization, clearing & settlement
+  - High-availability, cloud-native infrastructure
+  - Cost-efficient platforms (25–50%+ infra cost reduction)
+  - Observability, DevOps, and reliability engineering
+
+- 🧠 **Tech Leadership & Execution**
+  - Built and led engineering teams from 0 to 100+
+  - Hands-on architecture + org design
+  - PCI-DSS / regulatory audit readiness
+  - Turning prototypes into production-grade systems
   
 
 **What I Care About:**
@@ -18,10 +39,3 @@ I build systems where **money actually moves** — across cards, stablecoins, le
 
 <!--END_SECTION:waka-->
 
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
