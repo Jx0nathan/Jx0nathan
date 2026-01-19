@@ -1,13 +1,10 @@
 <div align="center">
-  <h1>Hi there, I'm Jonathan Ji <img src="https://media.giphy.com/media/hvRJCLFzcuMiM/giphy.gif" width="30px"></h1>
+  <h1>Hi there, I'm Jonathan <img src="https://media.giphy.com/media/hvRJCLFzcuMiM/giphy.gif" width="30px"></h1>
   <h3>CTO & Chief Architect | Web3 Payments & Financial Infrastructure</h3>
   <p>Based in Singapore 🇸🇬</p>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/">
+  <a href="[/](https://www.linkedin.com/in/jonathan-ji-76b196378/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_Me-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" />
   </a>
 
   <br/><br/>
@@ -25,10 +22,9 @@
 
 > I serve as a **CTO** bridging the gap between **On-chain Liquidity** and **Real-world Settlement**.
 
-I build systems where **money actually moves**. My focus is not just on smart contracts, but on the entire lifecycle of a transaction: from EVM atomicity to banking rails compliance (PCI-DSS/SOC2).
+I build systems where **money actually moves**. My focus is not just on smart contracts, but on the entire lifecycle of a transaction: from BlockChain to banking rails compliance.
 
-* 🔭 **Current Focus:** Stablecoin Payment Gateways (USDT/USDC) & Card Issuing Infrastructure.
-* 🌱 **Learning:** Advanced Foundry patterns & Account Abstraction (ERC-4337).
+* 🔭 **Current Focus:** On-chain Stablecoin Acquiring System & Card Issuing Infrastructure.
 * 💬 **Ask me about:** System Architecture, Hybrid Ledgers, and Scaling Engineering Teams.
 
 <br/>
@@ -38,7 +34,7 @@ I build systems where **money actually moves**. My focus is not just on smart co
 | Core Components | Technologies I Use |
 | :--- | :--- |
 | **Smart Contracts** | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=flat&logo=foundry&logoColor=white) ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white) |
-| **Backend & Systems** | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) |
+| **Backend & Systems** | | **Backend & Systems** | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-000000.svg?style=flat&logo=apachekafka&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
 | **Architecture** | Microservices, Event-Driven Systems, Distributed Ledgers |
 
 <br/>
