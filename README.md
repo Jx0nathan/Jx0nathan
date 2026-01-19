@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Jonathan <img src="https://media.giphy.com/media/hvRJCLFzcuMiM/giphy.gif" width="30px"></h1>
+  <h1>Hi there, I'm Jonathan </h1>
   <h3>CTO & Chief Architect | Web3 Payments & Financial Infrastructure</h3>
   <p>Based in Singapore 🇸🇬</p>
 
