@@ -17,8 +17,8 @@
 
 I build systems where **money actually moves**. My focus is not just on smart contracts, but on the entire lifecycle of a transaction: from BlockChain to banking rails compliance.
 
-* 🔭 **Current Focus:** On-chain Stablecoin Acquiring System & Card Issuing Infrastructure.
-* 💬 **Ask me about:** System Architecture, Hybrid Ledgers, and Scaling Engineering Teams.
+* 🔭 **Current Focus:** Stablecoin-based Acquiring & Card Issuing Infrastructure (On-chain + Off-chain)
+* 💬 **Ask me about:** Event-Driven Architecture, Distributed Ledgers, High-Availability Systems
 
 <br/>
 
